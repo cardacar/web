@@ -1,0 +1,4 @@
+https://www.heropatterns.com/ -> Fondos
+https://fonts.google.com/ -> Fuente para letras proporcionado por google
+https://cdnjs.com/libraries/font-awesome ->Iconos
+https://www.pexels.com/es-es/ -> Imagenes
