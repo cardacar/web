@@ -83,7 +83,7 @@ hr{
     width: 100%;
     height: 550px;
     /*Asi se centra una imagen y que ocupe todo el ancho que se le da*/
-    background: url(/src/img/Fondo.jpg) no-repeat center center/cover;
+    background: url(/img/Fondo.jpg) no-repeat center center/cover;
     padding: 50px;
     margin-bottom: 20px;
     display: flex;
@@ -137,7 +137,7 @@ hr{
 .cards-banner-one{
     width: 100%;
     height: 512px;
-    background: url(/src/img/Noxus.png) no-repeat center;
+    background: url(/img/Darius_16.jpg) no-repeat top/cover;
 }
 
 .cards-banner-one .content{
@@ -149,7 +149,7 @@ hr{
 .cards-banner-two{
     width: 100%;
     height: 350px;
-    background: url(/src/img/Darius_15.jpg) no-repeat top/cover;
+    background: url(/img/Darius_15.jpg) no-repeat top/cover;
 }
 
 .cards-banner-two .content{
